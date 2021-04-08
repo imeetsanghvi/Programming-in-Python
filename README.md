@@ -29,5 +29,3 @@ I am going to add code related to data structures, sorting, algorithms, coding c
 10. Password Checker
 
 Thank You!
-
-
